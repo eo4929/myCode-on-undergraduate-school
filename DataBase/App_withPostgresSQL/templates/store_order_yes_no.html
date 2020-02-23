@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+
+{% block title %}
+주문 확인 / 취소
+{% endblock %}
+
+{% block body %}
+<h2>주문 확인 / 취소</h2>
+
+<h3>1 가게 주문 현황</h3>
+<p>menu, menu_count, phone(구매자), local(구매자), did, dname, orderstatus</p>
+{% for row in orderList %}
+<tr>
+    {{row}}
+    <br>
+</tr>
+{% endfor %}
+
+<h3>2 가까운 배달부 상위 5명</h3>
+<p>거리, did, 이름, stock</p>
+{% for row in deliveryList %} 
+<tr>
+    {{row}}
+    <br>
+</tr>
+{% endfor %}
+
+<h3>3 주문 확인(배달부할당) 또는 취소 기능(취소시 배달부did는 -1 , 배달부 이름에는 배달부 입력하기)</h3>
+<form action="/select_store_order_yes_no" method='POST'>
+    <input type='text' name=select placeholder="확인or취소">
+    <input type='text' name=sname placeholder="내 가게이름">
+    <input type='text' name=menu placeholder="메뉴">
+    <input type='text' name=did placeholder="배달부did">
+    <input type='text' name=dname placeholder="배달부 이름">
+    <input type='text' name=local placeholder="구매자 local">
+    <input type='text' name=phone placeholder="구매자 phone">
+    <input type='submit' value='선택!'>
+</form>
+{% endblock %}

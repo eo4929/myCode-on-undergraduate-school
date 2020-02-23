@@ -1,0 +1,110 @@
+{% extends "layout.html" %}
+
+{% block title %}
+환영합니다 구매자님({{semail}})
+{% endblock %}
+<!--구매자로 로그인 시 미리 결제수단 테이블들 만들어지도록 했음!!!-->
+{% block body %}
+<h1>환영합니다 구매자님({{semail}})</h1>
+<div>
+    <h2>구매자의 기능</h2>
+    <ul>
+        <h3>1 구매자 관리화면-개인정보변경기능(비밀번호와 이름 두 정보 모두 입력해야 함)</h3>
+        <form action='/change_customerInfo' , method="POST"> <!--이 함수만들기 시작하자!!!-->
+            <input type='text' name=sname placeholder="sname">
+            <input type='password' name=passwd placeholder="Password">
+            <input type=submit value='변경'>
+        </form>
+
+        <h3>2 구매자 관리화면-자신의 주소록 목록</h3>
+        <p>주소록 리스트(바로 아래)</p>
+        {% for row in addressBook %} <!--addressBook 변수 app에서 만들고 전달하기-->
+        <tr>
+            <th>{{row}}</th>
+            <br>
+        </tr>
+        {% endfor %}
+        <p>2-1 주소록에 추가</p>
+        <form action='/inserttoaddressBook' , method="POST">
+            <input type='text' name=phone placeholder="내 폰번호">
+            <input type='text' name=si placeholder="시">
+            <input type='text' name=gu placeholder="구">
+            <input type='text' name=dong placeholder="동">
+            <input type=submit value='추가'>
+        </form>
+        <p>2-2 주소록 수정(모든 항목을 다 작성해주세요)</p>
+        <form action='/changeaddressBook' , method="POST"> <!--이 함수만들기-->
+            <input type='text' name=phone placeholder="내 폰번호">
+            <input type='text' name=si placeholder="시">
+            <input type='text' name=gu placeholder="구">
+            <input type='text' name=dong placeholder="동">
+            <br>
+            <input type='text' name=old_si placeholder="old시">
+            <input type='text' name=old_gu placeholder="old구">
+            <input type='text' name=old_dong placeholder="old동">
+            <input type=submit value='수정'>
+        </form>
+        <p>2-3 주소록에서 삭제</p>
+        <form action='/removefromaddressBook' , method="POST"> <!--이 함수만들기-->
+            <input type='text' name=phone placeholder="내 폰번호">
+            <input type='text' name=si placeholder="시">
+            <input type='text' name=gu placeholder="구">
+            <input type='text' name=dong placeholder="동">
+            <input type=submit value='삭제'>
+        </form>
+
+        <h3>3 주문order 화면(이 안에 주문 내역과 주문 현황 있음)</h3> <!--이 안에 주문 내역과 주문 현황 넣기-->
+        <form action='/customer_order' , method="POST"> <!--이 함수만들고 여기서 customer_order.html로 가도록 하자-->
+            <input type='text' name=phone placeholder="내 폰번호">
+            <input type=submit value='확인'>
+        </form>
+
+        <h3>4-1 결제수단 목록(account)</h3>
+        <p>type / bid / acc_num 순입니다</p>
+        {% for row in payMethod_account %} <!--payMethod 변수 app에서 만들고 전달하기 , 결제수단 테이블도 생성하기-->
+        <tr>
+            <th>{{row}}</th>
+            <br>
+        </tr>
+        {% endfor %}
+        <p>4-1-1 결제수단(account)에 추가/수정/삭제</p>
+        <form action='/insert_change_remove_payMethod_account' , method="POST"> <!--이 함수만들기-->
+            <input type='text' name=function placeholder="추가or수정or삭제를 입력">
+            <input type='text' name=phone placeholder="내 폰번호">
+            <input type='text' name=bid placeholder="bid">
+            <input type='text' name=acc_num placeholder="acc_nums">
+            <br>
+            <input type='text' name=old_bid placeholder="이전bid(수정시에만입력)">
+            <input type='text' name=old_acc_num placeholder="이전acc_num(수정시에만입력)">
+            <input type=submit value='확인'>
+        </form>
+        
+        <h3>4-2 결제수단 목록(card)</h3>
+        <p>type / card_num 순입니다</p>
+        {% for row in payMethod_card %} <!--payMethod 변수 app에서 만들고 전달하기 , 결제수단 테이블도 생성하기-->
+        <tr>
+            <th>{{row}}</th>
+            <br>
+        </tr>
+        {% endfor %}
+        <p>4-2-1 결제수단(card)에 추가/수정/삭제</p>
+        <form action='/insert_change_remove_payMethod_card' , method="POST"> <!--이 함수만들기-->
+            <input type='text' name=function placeholder="추가or수정or삭제를 입력">
+            <input type='text' name=phone placeholder="내 폰번호">
+            <input type='text' name=card_num placeholder="card_num">
+            <br>
+            <input type='text' name=old_card_num placeholder="이전card_num(수정시에만입력)">
+            <input type=submit value='확인'>
+        </form>
+        
+        
+        <h3>5 구매 화면(주문하기 포함)</h3>
+        <form action='/customer_purchase' , method="POST"> <!--이 함수만들고 여기서 customer_purchase.html로 가도록 하자-->
+            <input type='text' name=phone placeholder="내 폰번호">
+            <input type=submit value='구매화면가기(주문하기 포함)'>
+        </form>
+
+
+    </ul>
+</div>
+{% endblock %}

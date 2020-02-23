@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block title %}
+admin님
+{% endblock %}
+
+{% block body %}
+<h1> {{email}}의 개인 주소록 </h1>
+<table>
+    <h3>개인 주소록</h3>
+    {% for row in privateBook %}
+    <tr>
+        <th>{{ row[0] }}</th>
+        <th>{{ row[1] }}</th>
+        <th>{{ row[2] }}</th>
+        <th>{{ row[3] }}</th>
+    </tr>
+    {% endfor %}
+</table>
+<h1> 도메인별 도수 분포표 </h1>
+<table>
+    <h3>CountTable</h3>
+    <tr>
+        <th>도메인이름</th>
+        <th>빈도수</th>
+    </tr>
+    {% for row in countTable %}
+    <tr>
+        <th>{{ row[0] }}</th>
+        <th>{{ row[1] }}</th>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

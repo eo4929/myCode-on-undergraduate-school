@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+
+{% block title %}
+admin님
+{% endblock %}
+
+{% block body %}
+<h1> 환영합니다 {{session['semail']}}님! </h1>
+<table>
+    <h3>한양인 주소록</h3>
+    {% for row in newCsv %}
+    <tr>
+        <th>{{ row[0] }}</th>
+        <th>{{ row[1] }}</th>
+        <th>{{ row[2] }}</th>
+        <th>{{ row[3] }}</th>
+    </tr>
+    {% endfor %}
+</table>
+<table>
+    <h3>개인 주소록</h3>
+    {% for row in privateCsv %}
+    <tr>
+        <th>{{ row[0] }}</th>
+        <th>{{ row[1] }}</th>
+        <th>{{ row[2] }}</th>
+        <th>{{ row[3] }}</th>
+    </tr>
+    {% endfor %}
+</table>
+<div>
+    <h3>{{ session['semail'] }}의 기능</h3>
+    <ul>
+        <p>1 회사정보추가(회사정보를 담은 csv파일명(경로포함)을 입력하시오)</p>
+        <form action='/{{ session["semail"] }}/insertCorp' , method="POST">
+            <input type='text' name=name_corp placeholder="name_corp">
+            <input type=submit value='추가'>
+        </form>
+        <p>2 회사정보수정(업데이트할 정보를 담은 csv파일명(경로포함)을 입력하시오)</p>
+        <form action='/{{ session["semail"] }}/changeCorp' , method="POST">
+            <input type='text' name=name_corp placeholder="name_corp">
+            <input type=submit value='수정'>
+        </form>
+        <p>3 임의의 연락처 1건 삭제(삭제할 사람의 전화번호를 입력하시오)</p>
+        <form action='/{{ session["semail"] }}/removeEmp' , method="POST">
+            <input type='text' name=phone placeholder="phone">
+            <input type=submit value='삭제'>
+        </form>
+    </ul>
+</div>
+{% endblock %}

@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block title %}
+환영합니다 판매자님({{semail}})
+{% endblock %}
+
+{% block body %} 
+<h1>환영합니다 판매자님({{semail}})</h1>
+<h2>가게이름: {{sname}}</h2>
+
+<div>
+    <h2>가게의 기능</h2>
+    <ul>
+        <p>1 가게 설명: </p>
+        <p>{{storeDesc}}</p>
+        <form action='/insertOrchange_storeDesc' , method="POST">
+            <input type='text' name=sname placeholder="가게 이름도 적기">
+            <input type='text' name=sdesc placeholder="가게 설명">
+            <input type=submit value='입력or변경'>
+        </form>
+
+        <p>2 가게 태그(2개로 한정)</p>
+        <p>태그1: {{tag1}} , 태그2: {{tag2}}</p>
+        <form action='/insertOrchange_tag' , method="POST">
+            <input type='text' name=sname placeholder="가게 이름도 적기">
+            <input type='text' name=tag1name placeholder="태그1">
+            <input type='text' name=tag2name placeholder="태그2">
+            <input type=submit value='확인'>
+        </form>
+
+        <p>3 현재 메뉴 확인</p>
+        <form action='/store_menu' , method="POST">
+            <input type='text' name=sname placeholder="내 이름(가게) 적기">
+            <input type=submit value='확인'>
+        </form>
+
+        <p>4 현재 주문 확인/취소</p>
+        <form action='/store_order_yes_no' , method="POST">
+            <input type='text' name=sname placeholder="내 이름(가게) 적기">
+            <input type=submit value='확인'>
+        </form>
+
+    </ul>
+</div>
+
+{% endblock %}

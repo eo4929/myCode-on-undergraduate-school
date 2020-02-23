@@ -1,0 +1,5 @@
+>Genetic Algorithm(cnt=592)
+Location : 6 2 7 1 4 0 5 3 
+
+Total Elapsed Time : 1.14
+

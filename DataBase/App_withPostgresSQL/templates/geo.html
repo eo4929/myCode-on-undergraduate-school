@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body> <!--br은 개행 태그-->
+    <script>
+        // 네비게이터 객체 -> 브라우저가 지원함 , 웹페이지가 지원하는 것은 아님
+        // 실제 제대로 된 위치를 주진 않지만 이렇게 위치 정보가져오는 이 3줄 코드만 있어도 추가 점수 어등ㄹ 수 있다
+        navigator.geolocation.getCurrentPosition(function(position){
+            document.write(position.coords.latitude + ", " + position.coords.longitude)
+        });
+    </script>
+</body>
+</html>
