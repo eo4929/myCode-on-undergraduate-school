@@ -1,0 +1,116 @@
+E:\Andrew\Downloads\MyMediaLite (20140527)\MyMediaLite\bin\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite (20140527)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+E:\Andrew\Downloads\MyMediaLite (20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+E:\Andrew\Downloads\MyMediaLite (20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite (20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+E:\Andrew\Downloads\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+E:\Andrew\Downloads\MyMediaLite(20140527)\MyMediaLite\bin\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite(20140527)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+E:\Andrew\Downloads\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140527)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140527)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\YeonChang\Downloads\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Downloads\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Downloads\MyMediaLite(20140527)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Downloads\MyMediaLite(20140527)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Downloads\MyMediaLite(20140527)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\YeonChang\Desktop\MyMediaLite(20140606)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Desktop\MyMediaLite(20140606)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Desktop\MyMediaLite(20140606)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Desktop\MyMediaLite(20140606)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Desktop\MyMediaLite(20140606)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+E:\Andrew\Downloads\MyMediaLite(20140606)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite(20140606)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+E:\Andrew\Downloads\MyMediaLite(20140606)\MyMediaLite\bin\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite(20140606)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+E:\Andrew\Downloads\MyMediaLite(20140606)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MyMediaLite(20140607)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140607)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140607)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140607)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140607)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\YeonChang\Desktop\MyMediaLite(20140607)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Desktop\MyMediaLite(20140607)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Desktop\MyMediaLite(20140607)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Desktop\MyMediaLite(20140607)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Desktop\MyMediaLite(20140607)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MyMediaLite(20140610)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140610)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140610)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140610)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140611)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140611)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140611)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+E:\Andrew\Downloads\MyMediaLite(20140611)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite(20140611)\MyMediaLite\bin\Debug\MyMediaLite.exe
+E:\Andrew\Downloads\MyMediaLite(20140611)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+E:\Andrew\Downloads\MyMediaLite(20140611)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+E:\Andrew\Downloads\MyMediaLite(20140611)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140616)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140616)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140616)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140616)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140616)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\YeonChang\Desktop\MyMediaLite(20140616)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Desktop\MyMediaLite(20140616)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Desktop\MyMediaLite(20140616)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\YeonChang\Desktop\MyMediaLite(20140616)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\YeonChang\Desktop\MyMediaLite(20140616)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MyMediaLite(20140616) (2)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140616) (2)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140616) (2)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140616) (2)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140616) (2)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MyMediaLite(20140619)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140619)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140619)\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\Andrew\Desktop\MyMediaLite(20140619)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\Andrew\Desktop\MyMediaLite(20140619)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MyMediaLite_Ver4\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\user\Desktop\MyMediaLite_Ver4\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\user\Desktop\MyMediaLite_Ver4\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\user\Desktop\MyMediaLite_Ver4\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\user\Desktop\MyMediaLite_Ver4\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DM880_1183\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+C:\Users\user\Desktop\DM880_1183\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+C:\Users\user\Desktop\DM880_1183\MyMediaLite\bin\Debug\MyMediaLite.exe
+C:\Users\user\Desktop\DM880_1183\MyMediaLite\bin\Debug\MyMediaLite.pdb
+C:\Users\user\Desktop\DM880_1183\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+D:\Downloads\DM880_1183\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\Downloads\DM880_1183\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\DAKE\소스코드\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\DAKE\소스코드\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\DAKE\소스 코드\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\DAKE\소스 코드\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\DAKE\소스 코드\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.exe
+D:\DAKE\소스 코드\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.pdb
+D:\DAKE\소스 코드\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+D:\DAKE\소스 코드\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\DAKE\소스 코드\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\DAKE\소스 코드\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.exe
+D:\DAKE\소스 코드\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.pdb
+D:\DAKE\소스 코드\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+D:\Downloads\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite(PrefModel)\최종\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+D:\Downloads\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite_Preference Model\MyMediaLite\bin\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite_Preference Model\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+D:\Downloads\MyMediaLite\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite\MyMediaLite\bin\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite\MyMediaLite\bin\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
+D:\Downloads\MyMediaLite(OCCFRecSys)\MyMediaLite\obj\x86\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite(OCCFRecSys)\MyMediaLite\obj\x86\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite(OCCFRecSys)\MyMediaLite\bin\Debug\MyMediaLite.exe
+D:\Downloads\MyMediaLite(OCCFRecSys)\MyMediaLite\bin\Debug\MyMediaLite.pdb
+D:\Downloads\MyMediaLite(OCCFRecSys)\MyMediaLite\obj\x86\Debug\MyMediaLite.csprojResolveAssemblyReference.cache
