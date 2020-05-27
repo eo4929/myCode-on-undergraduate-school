@@ -1,5 +1,0 @@
->Genetic Algorithm(cnt=25936)
-Location : 6 2 9 14 4 0 10 12 1 5 8 13 3 7 11 
-
-Total Elapsed Time : 0.141
-

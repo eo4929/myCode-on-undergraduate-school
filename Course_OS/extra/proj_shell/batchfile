@@ -1,4 +1,0 @@
-ls
-/bin/ls -al
-ls;pwd;echo "hello world!"
-
