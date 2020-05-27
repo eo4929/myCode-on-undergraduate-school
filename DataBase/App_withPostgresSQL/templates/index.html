@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+assignment3
+{% endblock %}
+
+{% block body %}
+<h1>배달의 한양 로그인</h1>
+<form action="/login" method='POST' id="log">
+<input type='email' name='semail' placeholder="email"> <!-- type='email'로 하면 @ 없으면 입력 불가능-->
+<input type='password' name='passwd' placeholder="Password">
+<input type='submit' value='로그인'>
+</form>
+
+<script>
+    let form = document.getElementById("log") // 이메일에 대해 클라이언트에서 처리하기 위함
+    form.onsubmit = function() {// 익명함수
+        if(!form.semail.value){
+            alert("missing email");
+            return false;
+        }
+        else if(!form.passwd.value){
+            alert("missing password");
+            return false;
+        }
+
+        return true;
+    };
+</script>
+{% endblock %}

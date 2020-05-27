@@ -1,0 +1,5 @@
+>Hill Climbing(cnt=10)
+No solution 
+ Time : 0.0 
+
+

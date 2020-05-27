@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block title %}
+주문 내역
+{% endblock %}
+
+{% block body %}
+<h2>주문 내역(최근 주문 시간 순으로 정렬)</h2>
+<p>주문한 가게, 메뉴, 결제수단, 주문 시간</p>
+{% for row in orderhistory %} <!--storesOnSale 변수 app에서 만들고 전달하기, 이와 관련된 테이블도 만들어야 하는지 고민하기-->
+<tr>
+    {{row}}
+    <br>
+</tr>
+{% endfor %}
+{% endblock %}

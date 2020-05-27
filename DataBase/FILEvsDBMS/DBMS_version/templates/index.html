@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}
+assignment2_1
+{% endblock %}
+
+{% block body %}
+<h1>주소록 프로그램 로그인</h1>
+<form action="/login" method='POST'>
+<input type='email' name='semail' placeholder="email"> <!-- type='email'로 하면 @ 없으면 입력 불가능-->
+<input type='password' name='passwd' placeholder="Password">
+<input type='submit' value='로그인'>
+</form>
+{% endblock %}
